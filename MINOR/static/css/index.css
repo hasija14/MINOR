@@ -1,0 +1,24 @@
+h1,h3{
+  color:#1da1f2;
+}
+.cover{
+background:url('/static/images/bk1 (1).jpg');
+background-position:center;
+ background-size:100%;
+background-repeat: no-repeat;
+}
+html{
+  min-height: 1080px;
+  margin: 0;
+  padding: 0;
+  min-width: 1080px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  color:white;
+}

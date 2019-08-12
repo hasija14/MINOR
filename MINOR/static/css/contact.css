@@ -1,0 +1,18 @@
+
+html{
+background:url('/static/images/contact1.jpg') ;
+background-position:center;
+ background-size:100%;
+background-repeat: no-repeat;
+margin: 0;
+padding: 0;
+height: 100%;
+}
+
+.content {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 60%;
+  padding: 20px;
+}
